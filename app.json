@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CPU-Labb1",
+    "slug": "CPU-Labb1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "CPU-Labb1"
+}
